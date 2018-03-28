@@ -1,2 +1,2 @@
-# ip2map_bookmarklet
+# ip2map-bookmarklet
 An easy way to check your updates
